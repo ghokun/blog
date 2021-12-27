@@ -52,7 +52,7 @@ params:
         safari_pinned_tab: "https://github.com/ghokun/blog/raw/main/static/safari-pinned-tab.svg"
 
     label:
-        text: "Home"
+        text: "Gokhun"
         icon: /apple-touch-icon.png
         iconHeight: 35
 
@@ -63,7 +63,7 @@ params:
     # home-info mode
     homeInfoParams:
         Title: "Hi there \U0001F44B"
-        Content: Stay a while and read
+        Content: "I dabble about java, go, swift, automation, kubernetes"
 
     socialIcons:
         - name: twitter
@@ -83,8 +83,6 @@ params:
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 
-    # for search
-    # https://fusejs.io/api/options.html
     fuseOpts:
         isCaseSensitive: false
         shouldSort: true
