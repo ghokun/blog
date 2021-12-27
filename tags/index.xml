@@ -5,6 +5,34 @@
     <link>https://gokhun.dev/tags/</link>
     <description>Recent content in Tags on Gokhun</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://gokhun.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Dec 2021 19:06:44 +0000</lastBuildDate><atom:link href="https://gokhun.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>macos</title>
+      <link>https://gokhun.dev/tags/macos/</link>
+      <pubDate>Mon, 27 Dec 2021 19:06:44 +0000</pubDate>
+      
+      <guid>https://gokhun.dev/tags/macos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>swift</title>
+      <link>https://gokhun.dev/tags/swift/</link>
+      <pubDate>Mon, 27 Dec 2021 19:06:44 +0000</pubDate>
+      
+      <guid>https://gokhun.dev/tags/swift/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>swift-ui</title>
+      <link>https://gokhun.dev/tags/swift-ui/</link>
+      <pubDate>Mon, 27 Dec 2021 19:06:44 +0000</pubDate>
+      
+      <guid>https://gokhun.dev/tags/swift-ui/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gokhun</title>
-    <link>https://gokhun.dev/</link>
-    <description>Recent content on Gokhun</description>
+    <title>Posts on Gokhun</title>
+    <link>https://gokhun.dev/posts/</link>
+    <description>Recent content in Posts on Gokhun</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Dec 2021 19:06:44 +0000</lastBuildDate><atom:link href="https://gokhun.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Dec 2021 19:06:44 +0000</lastBuildDate><atom:link href="https://gokhun.dev/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Creating a macOS Statusbar Application</title>
       <link>https://gokhun.dev/posts/macos-statusbar-application/</link>
@@ -18,8 +18,6 @@
   Select App under macOS platform   Enter your product name (Statusbar)
   Select Team if you have one or let Xcode generate one (My developer account)</description>
     </item>
-    
-    
     
   </channel>
 </rss>
