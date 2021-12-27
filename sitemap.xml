@@ -2,9 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://gokhun.dev/categories/</loc>
+  </url><url>
     <loc>https://gokhun.dev/</loc>
   </url><url>
-    <loc>https://gokhun.dev/categories/</loc>
+    <loc>https://gokhun.dev/posts/</loc>
+  </url><url>
+    <loc>https://gokhun.dev/search/</loc>
   </url><url>
     <loc>https://gokhun.dev/tags/</loc>
   </url>
