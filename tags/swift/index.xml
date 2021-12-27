@@ -19,5 +19,14 @@
   Select Team if you have one or let Xcode generate one (My developer account)</description>
     </item>
     
+    <item>
+      <title>ScreenLight</title>
+      <link>https://gokhun.dev/projects/screenlight/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gokhun.dev/projects/screenlight/</guid>
+      <description>A macOS application to use your displays as light sources</description>
+    </item>
+    
   </channel>
 </rss>
