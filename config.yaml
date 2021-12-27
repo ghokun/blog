@@ -93,15 +93,19 @@ params:
         keys: ["title", "permalink", "summary", "content"]
 menu:
     main:
+        - identifier: projects
+          name: projects
+          url: projects/
+          weight: 10
         - identifier: posts
           name: posts
           url: posts/
-          weight: 10
+          weight: 20
         - identifier: tags
           name: tags
           url: tags/
-          weight: 20
+          weight: 30
         - identifier: search
           name: search
           url: search/
-          weight: 30
+          weight: 40
