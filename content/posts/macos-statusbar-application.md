@@ -2,7 +2,7 @@
 title: "Creating a macOS Statusbar Application"
 date: 2021-12-27T19:06:44Z
 draft: false
-tags: ["macos", "swift", "swift-ui"]
+tags: ["macos", "swift", "swiftui"]
 ---
 In this post we will create a macOS statusbar application.
 In order to follow this tutorial you will need following items:
