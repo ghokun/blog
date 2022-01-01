@@ -68,10 +68,16 @@ params:
     socialIcons:
         - name: twitter
           url: "https://twitter.com/ghokun"
-        - name: stackoverflow
-          url: "https://stackoverflow.com/users/931004/ghokun"
+        - name: linkedin
+          url: "https://www.linkedin.com/in/ghokun"
         - name: github
           url: "https://github.com/ghokun"
+        - name: stackoverflow
+          url: "https://stackoverflow.com/users/931004/ghokun"
+        - name: medium
+          url: "https://gokhun.medium.com"
+        - name: rss
+          url: "https://gokhun.dev/index.xml"
 
     cover:
         hidden: true # hide everywhere but not in structured data
