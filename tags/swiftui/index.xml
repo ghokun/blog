@@ -5,7 +5,20 @@
     <link>https://gokhun.dev/tags/swiftui/</link>
     <description>Recent content in swiftui on Gokhun</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://gokhun.dev/tags/swiftui/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Dec 2021 19:06:44 +0000</lastBuildDate><atom:link href="https://gokhun.dev/tags/swiftui/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creating a macOS Statusbar Application</title>
+      <link>https://gokhun.dev/posts/macos-statusbar-application/</link>
+      <pubDate>Mon, 27 Dec 2021 19:06:44 +0000</pubDate>
+      
+      <guid>https://gokhun.dev/posts/macos-statusbar-application/</guid>
+      <description>In this post we will create a macOS statusbar application. In order to follow this tutorial you will need following items:
+ A device that is capable of running macOS Big Sur Xcode (I am using Version 13.2.1 (13C100))  Create Project   Open Xcode and create new project.
+  Select App under macOS platform   Enter your product name (Statusbar)
+  Select Team if you have one or let Xcode generate one (My developer account)</description>
+    </item>
+    
     <item>
       <title>ScreenLight</title>
       <link>https://gokhun.dev/projects/screenlight/</link>
